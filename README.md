@@ -1,0 +1,1 @@
+# D-internship-angular-with-.net-full-app-with-update-version-from-old-E-Shop-With-Ngrx-mySky
